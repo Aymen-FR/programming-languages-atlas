@@ -1,5 +1,5 @@
 
-site : https://aymenfraya.github.io/programming-languages-atlas/index.html
+site : 
 
 # Programming Languages Atlas 
 
